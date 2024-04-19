@@ -1,3 +1,3 @@
-# `@napi-rs/opencv-darwin-arm64`
+# `napi-rs-opencv-darwin-arm64`
 
-This is the **aarch64-apple-darwin** binary for `@napi-rs/opencv`
+This is the **aarch64-apple-darwin** binary for `napi-rs-opencv`

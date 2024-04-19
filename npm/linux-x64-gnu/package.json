@@ -1,5 +1,5 @@
 {
-  "name": "@napi-rs/opencv-linux-x64-gnu",
+  "name": "napi-rs-opencv-linux-x64-gnu",
   "version": "0.0.1",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "opencv.linux-x64-gnu.node",
+  "main": "napi-rs-opencv.linux-x64-gnu.node",
   "files": [
-    "opencv.linux-x64-gnu.node"
+    "napi-rs-opencv.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

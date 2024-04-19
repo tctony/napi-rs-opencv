@@ -1,10 +1,10 @@
 {
-  "name": "@napi-rs/opencv",
+  "name": "napi-rs-opencv",
   "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "opencv",
+    "name": "napi-rs-opencv",
     "triples": {
       "additional": [
         "aarch64-apple-darwin"

@@ -1,5 +1,5 @@
 {
-  "name": "@napi-rs/opencv-win32-x64-msvc",
+  "name": "napi-rs-opencv-win32-x64-msvc",
   "version": "0.0.1",
   "os": [
     "win32"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "opencv.win32-x64-msvc.node",
+  "main": "napi-rs-opencv.win32-x64-msvc.node",
   "files": [
-    "opencv.win32-x64-msvc.node"
+    "napi-rs-opencv.win32-x64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

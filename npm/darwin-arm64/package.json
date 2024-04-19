@@ -1,5 +1,5 @@
 {
-  "name": "@napi-rs/opencv-darwin-arm64",
+  "name": "napi-rs-opencv-darwin-arm64",
   "version": "0.0.1",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "opencv.darwin-arm64.node",
+  "main": "napi-rs-opencv.darwin-arm64.node",
   "files": [
-    "opencv.darwin-arm64.node"
+    "napi-rs-opencv.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {
