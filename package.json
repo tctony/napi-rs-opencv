@@ -2,6 +2,10 @@
   "name": "napi-rs-opencv",
   "version": "0.0.1",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tctony/napi-rs-opencv"
+  },
   "types": "index.d.ts",
   "napi": {
     "name": "napi-rs-opencv",
